@@ -1,12 +1,12 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: demo
+  name: argo-demo-prod
 spec:
   template:
     spec:
       containers:
-      - name: demo
+      - name: argo-demo-prod
         env:
         - name: ENVIRONMENT
           value: prod
