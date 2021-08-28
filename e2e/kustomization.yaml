@@ -8,6 +8,6 @@ patchesStrategicMerge:
 
 images:
 - name: invaleed/argo-demo
-  newTag: 98d1bcb626e493639842cd0cee058a6a95f46ca5
+  newTag: 951d75d90eb63ed20361b912e68447e41d8552ba
 resources:
 - ../base
